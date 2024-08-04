@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2bcc65b-a925-4b81-ab9f-66c6e67136d6" name="Changes" comment="Stacks implementation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a2bcc65b-a925-4b81-ab9f-66c6e67136d6" name="Changes" comment="Balanced String Parenthesis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,11 +67,20 @@
       <option name="project" value="LOCAL" />
       <updated>1722695655053</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Balanced String Parenthesis">
+      <option name="closed" value="true" />
+      <created>1722750948418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722750948418</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stacks implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stacks implementation" />
+    <MESSAGE value="Balanced String Parenthesis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Balanced String Parenthesis" />
   </component>
 </project>
